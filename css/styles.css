@@ -1,0 +1,44 @@
+body {
+    font-family: 'Garamond', serif;
+    color: black;
+    background-color: rgb(247, 255, 162);
+}
+h1 {
+    font-family: cursive;
+    color: blueviolet;
+    font-size: 5em;
+    text-align: center;
+}
+h2, h3 {
+    font-family: sans-serif;
+    color: aqua;
+    font-size: 2em;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+a:link,
+a:visited,
+a:active {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color:aqua;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+ul, ol {
+    margin-left: 30vw;
+}
+
+#recipe-list {
+    font-size: 2em;
+    text-decoration: none;
+    list-style-type: none;
+}
